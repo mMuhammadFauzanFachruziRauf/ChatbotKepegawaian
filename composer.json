@@ -1,0 +1,15 @@
+{
+    "name": "fauzan/smkn1-skripsi",
+    "autoload": {
+        "psr-4": {
+            "Fauzan\\Smkn1Skripsi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mMuhammadFauzanFachruziRauf",
+            "email": "fauzan02rauf@gmai.com"
+        }
+    ],
+    "require": {}
+}
